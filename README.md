@@ -1,7 +1,10 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-<h1 align="left">Hola 👋, soy JOSE LUIS CASAREZ</h1>
-<h3 align="left">Un desarrollador FullStack Developer</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola+!+👋;+Soy+Jose+Luis+Casarez!" />
+</h1>
+
+<h3 align="left">Un desarrollador FullStack Developer en progreso</h3>
 
 <p align="left"> <a href="https://twitter.com/luisd6b2" target="blank"><img src="https://img.shields.io/twitter/follow/luisd6b2?logo=twitter&style=for-the-badge" alt="luisd6b2" /></a> </p>
 
@@ -13,7 +16,7 @@
 <a href="https://instagram.com/usuario_luis_" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usuario_luis_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@casarexz" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@casarexz" height="30" width="40" /></a>
 </p>
-
+<hr/>
 <br>
 
 <h3 align="left">Lenguajes de Programación:</h3>
@@ -22,7 +25,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-
+<hr/>
 <br>
 
 <h3 align="left">Desarrollo Frontend:</h3>
@@ -32,7 +35,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
-
+<hr/>
 <br>
 
 <h3 align="left">Desarrollo Backend:</h3>
@@ -40,14 +43,14 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
-
+<hr/>
 <br>
 
 <h3 align="left">Desarrollo de Aplicaciones Móviles:</h3>
 <p align="left">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
-
+<hr/>
 <br>
 
 <h3 align="left">Bases de Datos:</h3>
@@ -55,7 +58,7 @@
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
+<hr/>
 <br>
 
 <h3 align="left">Software:</h3>
@@ -67,7 +70,7 @@
   <a href="https://www.blackmagicdesign.com" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/c/c5/DaVinci_Resolve.png/revision/latest?cb=20230125204839" alt="davinci resolve" width="40" height="40"/> </a>
   <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/1280px-Audacity_Logo.svg.png" alt="audacity" width="40" height="40"/> </a>
 </p>
-
+<hr/>
 <br>
 
 <h3 align="left">Otro:</h3>
@@ -76,8 +79,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
-
-<br>
+<hr/>
 
 <h3 align="left">Social:</h3>
 <p align="left">
@@ -87,7 +89,7 @@
   <a href="https://instagram.com/usuario_luis_" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usuario_luis_" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@casarexz" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@casarexz" height="30" width="40" /></a>
 </p>
-
+<hr/>
 <br>
 
 <h3 align="left">Acerca de mí:</h3>
@@ -97,9 +99,15 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y actualmente me espec
 
 <br>
 
-<h3 align="left">Estadísticas:</h3>
-<p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=LuisD6&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical" alt="Luis Casarez's GitHub stats" /></a>
-</p>
+<h2 align="center">⚡ Estadísticas: ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=LuisD6&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+</div>
+
+<br/>
+
+<hr/>
 
 <br>
