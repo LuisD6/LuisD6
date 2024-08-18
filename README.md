@@ -94,7 +94,10 @@
 
 <h3 align="left">Acerca de mí:</h3>
 <p align="left">
-Soy estudiante de Ingeniería en Sistemas Computacionales y actualmente me especializo en desarrollo FullStack. Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos en proyectos reales. En mi tiempo libre, disfruto de la programación, el ejercicio y mantenerme actualizado en el mundo de la tecnología.
+👋 Hola, soy José Luis Casarez
+Soy estudiante de Ingeniería en Sistemas Computacionales con especialización en desarrollo FullStack. Actualmente, aplico mis conocimientos en tecnologías web en diversos proyectos prácticos.
+
+En mi tiempo libre, me dedico a la programación, al ejercicio y a mantenerme actualizado en el campo de la tecnología.
 </p>
 
 <br>
