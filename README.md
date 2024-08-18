@@ -8,7 +8,7 @@
 
 <!-- Imagen a la derecha -->
 <div align="left">
-  <img src="octocat-1723960800093.png" alt="octocat" width="150" align="right">
+  <img src="assets/img/octocat-1723960800093.png" alt="octocat" width="150" align="right">
 
 <p align="left"> <a href="https://twitter.com/luisd6b2" target="blank"><img src="https://img.shields.io/twitter/follow/luisd6b2?logo=twitter&style=for-the-badge" alt="luisd6b2" /></a> </p>
 
