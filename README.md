@@ -10,7 +10,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/luisd6b2" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisd6b2" height="30" width="40" /></a>
+<a href="https://twitter.com/luisd6b2" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisd6b2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jose-luis-casarez-ortiz-3b641b2a3" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-luis-casarez-ortiz-3b641b2a3" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=61557954865609" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=61557954865609" height="30" width="40" /></a>
 <a href="https://instagram.com/usuario_luis_" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usuario_luis_" height="30" width="40" /></a>
