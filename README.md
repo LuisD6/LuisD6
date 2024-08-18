@@ -5,6 +5,9 @@
 📈 #aprendiendo y desarrollando mis habilidades en JavaScript y bases de datos SQL como MySQL y MariaDB.<br/>  
 💭 Actualmente aprendiendo JavaScript y desarrollando una aplicación web para una tienda miscelánea.<br/>
 
+![](https://github-readme-stats.vercel.app/api?username=luis-casarez&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
 # 💻 Tech Stack  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
