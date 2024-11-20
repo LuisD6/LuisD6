@@ -4,7 +4,7 @@
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-<h3 align="left">Un desarrollador FullStack Developer en progreso</h3>
+<h3 align="left">Un FullStack Developer en progreso</h3>
 
 <!-- Imagen a la derecha -->
 <div align="left">
@@ -38,13 +38,13 @@
 <h3 align="left">Desarrollo Backend:</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 <hr/>
 <br>
 <h3 align="left">Bases de Datos:</h3>
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 <hr/>
 <br>
@@ -54,9 +54,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/photoshop/photoshop_PNG68.png" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ih/122083/png/OBS_Studio_Logo.png" alt="obs" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" alt="canva" width="40" height="40"/> </a>
   <a href="https://www.blackmagicdesign.com" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/c/c5/DaVinci_Resolve.png/revision/latest?cb=20230125204839" alt="davinci resolve" width="40" height="40"/> </a>
-  <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/1280px-Audacity_Logo.svg.png" alt="audacity" width="40" height="40"/> </a>
 </p>
 <hr/>
 <br>
