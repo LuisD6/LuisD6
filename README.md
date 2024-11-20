@@ -54,7 +54,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/photoshop/photoshop_PNG68.png" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ih/122083/png/OBS_Studio_Logo.png" alt="obs" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.blackmagicdesign.com" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/c/c5/DaVinci_Resolve.png/revision/latest?cb=20230125204839" alt="davinci resolve" width="40" height="40"/> </a>
+  <a href="https://www.blackmagicdesign.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="davinci resolve" width="40" height="40"/> </a>
 </p>
 <hr/>
 <br>
